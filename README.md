@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Lakshyadeep
 
-<!--
-**Lakshyadeep405/lakshyadeep405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Founder of CodeUdaan  
+🎮 Founder of xenon arena 
+💻 BCA AI/ML Student
 
-Here are some ideas to get you started:
+### 🌐 Website
+https://codeudaan.online
+https://xenonarena.netlify.app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+![Tech](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git)
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=lakshyadeep405&show_icons=true&theme=radical)
+
+---
+
+### 🔥 GitHub Streak
+![Streak](https://streak-stats.demolab.com?user=lakshyadeep405&theme=radical)
+
