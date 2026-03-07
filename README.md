@@ -2,14 +2,13 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=🚀+Founder+of+CodeUdaan;🎮+Founder+of+Xenon+Arena;💻+BCA+AI%2FML+Student;⚡+Building+Real+Products+%26+Real+Teams" alt="Typing SVG" />
-</a>
+<!-- FIXED: Using herokuapp mirror which is more stable than demolab -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=🚀+Founder+of+CodeUdaan;🎮+Founder+of+Xenon+Arena;💻+BCA+AI%2FML+Student;⚡+Building+Real+Products+%26+Teams" alt="Typing SVG" />
 
 <br/>
 
 [![Website](https://img.shields.io/badge/CodeUdaan-codeudaan.online-7c3aed?style=for-the-badge&logo=rocket&logoColor=white)](https://codeudaan.online)
-[![Xenon Arena](https://img.shields.io/badge/XenonArena-esports-ef4444?style=for-the-badge&logo=game-controller&logoColor=white)](https://xenonarena.netlify.app)
+[![Xenon Arena](https://img.shields.io/badge/XenonArena-Esports-ef4444?style=for-the-badge&logo=twitch&logoColor=white)](https://xenonarena.netlify.app)
 [![GitHub followers](https://img.shields.io/github/followers/lakshyadeep405?style=for-the-badge&color=7c3aed&logo=github)](https://github.com/lakshyadeep405)
 [![Profile Views](https://komarev.com/ghpvc/?username=lakshyadeep405&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/lakshyadeep405)
 
@@ -48,7 +47,7 @@ const lakshyadeep = {
 A hands-on developer launchpad helping students build **real production apps**, work in **startup-style teams**, and launch careers in full-stack dev & AI.
 
 - ✅ 50+ builders in founding cohort
-- ✅ Production-grade project experience  
+- ✅ Production-grade project experience
 - ✅ AI-integrated apps & freelancing track
 
 </td>
@@ -116,9 +115,11 @@ An esports platform organizing tournaments for BGMI & Free Fire with real prize 
 
 ## 🐍 Watch My Contributions Get Eaten
 
+<!-- FIXED: Correct file names after running the workflow below -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lakshyadeep405/lakshyadeep405/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lakshyadeep405/lakshyadeep405/output/github-contribution-grid-snake.svg"/>
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lakshyadeep405/lakshyadeep405/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
